@@ -1,36 +1,72 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# RBAC Dashboard - Role-Based Access Control System 🌐
 
-## Getting Started
+A **Role-Based Access Control (RBAC) Dashboard** designed for managing user roles and permissions effectively. Built with **Next.js**, this application is optimized for performance and scalability, featuring a responsive design to deliver an intuitive user experience across all devices.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Features ✨
+- **User Management**: Add, edit, and delete user accounts with ease.
+- **Role Management**: Define roles and assign them to users dynamically.
+- **Permission Control**: View and manage permissions for different roles.
+- **Dashboard Overview**: Visualize user statistics and role distribution.
+- **Responsive Design**: Fully optimized for desktops, tablets, and mobile devices.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Tech Stack 🛠️
+- **Frontend Framework**: [Next.js](https://nextjs.org/)
+- **Styling**: Tailwind CSS
+- **Icons**: React Icons
+- **State Management**: React's built-in state and context API
+- **Data**: Mock JSON data for roles, users, and permissions
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## Installation ⚙️
 
-To learn more about Next.js, take a look at the following resources:
+### Prerequisites
+Ensure you have the following installed:
+- [Node.js](https://nodejs.org/) (v16 or higher)
+- [Git](https://git-scm.com/)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Steps
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/mayankj31/rbac-ui.git
+   cd rbac-ui
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+2. **Install Dependencies**
+   ```bash
+    npm install
 
-## Deploy on Vercel
+3. **Run the Application**
+   ```bash
+    npm run dev
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+4. **Open your browser and navigate to :**
+   ```bash
+    http://localhost:3000
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Key Pages 📄
+### Dashboard Overview
+The homepage displaying :
+- A summary of the users, role distribution, and permissions.
+- Interactive UI cards for quick navigation.
+
+### User Management
+Features :
+- A table displaying all users with options to add, edit, or delete a user.
+- Form validation to ensure accurate user data input.
+
+### Role Management
+Features :
+- Dynamic table listing all roles.
+- Role creation and assignment workflows.
+
+### Screenshots 📸
+## Dashboard Overview :
+
+
+## User Management
+
+## Role Management
