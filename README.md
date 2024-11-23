@@ -66,7 +66,20 @@ Features :
 ### Screenshots 📸
 ## Dashboard Overview :
 
+![s1](https://github.com/user-attachments/assets/33061eea-74d9-486d-be0f-716b59682f06)
+
 
 ## User Management
 
+![s2](https://github.com/user-attachments/assets/8e7da582-8a3d-4541-8319-e7d0b3d6b498)
+
+![s3](https://github.com/user-attachments/assets/5d21fd9f-72ab-426b-b02c-0b3ced35a7a7)
+
+
 ## Role Management
+
+![s4](https://github.com/user-attachments/assets/af2c4435-7981-4b9b-897e-d5cfcdd44dda)
+
+![s5](https://github.com/user-attachments/assets/083c0a4c-10a5-47a5-9739-13176b3afd77)
+
+![s6](https://github.com/user-attachments/assets/691a0f2c-aa00-47d6-9638-3119816a276f)
